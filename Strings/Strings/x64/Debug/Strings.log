@@ -1,3 +1,5 @@
 ﻿  Strings.cpp
-D:\Voropaev\Documents\Code\C++\StringProject\Strings\Strings.cpp(9,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Strings.vcxproj -> D:\Voropaev\Documents\Code\C++\StringProject\Strings\x64\Debug\Strings.exe
+D:\EugeneJesuit\Docs\Code\C++\StringProject\Strings\StringPrinter.h(8,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Strings.cpp')
+  
+  Strings.vcxproj -> D:\EugeneJesuit\Docs\Code\C++\StringProject\Strings\x64\Debug\Strings.exe
